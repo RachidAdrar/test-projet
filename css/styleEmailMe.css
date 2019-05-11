@@ -1,0 +1,42 @@
+#contanier {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	background-color: #FFF;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+#form {
+	padding-top: 50px;
+	padding-left: 25px;
+
+}
+
+#mail {
+	background-image: url(images/mail.png);
+	height: 220px;
+	width: 157px;
+	position: absolute;
+	top: 20px;
+	right: 35px;
+}
+
+#header {
+	background-image: url(images/header.gif);
+	height: 100px;
+	width: 800px;
+}
+#contact {
+	height: 400px;
+}
+#footer {
+	background-image: url(images/footer.gif);
+	height: 100px;
+	width: 800px;
+}
+body {
+	background-color: #d9d9da;
+	margin: 0px;
+	padding: 0px;
+}
